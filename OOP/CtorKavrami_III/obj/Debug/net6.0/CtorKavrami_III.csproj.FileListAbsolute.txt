@@ -1,0 +1,15 @@
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/bin/Debug/net6.0/CtorKavrami_III
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/bin/Debug/net6.0/CtorKavrami_III.deps.json
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/bin/Debug/net6.0/CtorKavrami_III.runtimeconfig.json
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/bin/Debug/net6.0/CtorKavrami_III.dll
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/bin/Debug/net6.0/CtorKavrami_III.pdb
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.csproj.AssemblyReference.cache
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.AssemblyInfoInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.AssemblyInfo.cs
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.csproj.CoreCompileInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.dll
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/refint/CtorKavrami_III.dll
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.pdb
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.genruntimeconfig.cache
+/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/obj/Debug/net6.0/ref/CtorKavrami_III.dll

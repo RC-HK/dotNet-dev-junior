@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtorKavrami", "CtorKavrami\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtorKavrami_II", "CtorKavrami_II\CtorKavrami_II.csproj", "{4334FD00-6384-4528-BDC0-5FB88CA83ED3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtorKavrami_III", "CtorKavrami_III\CtorKavrami_III.csproj", "{C9DE487E-281C-4304-9D47-03E8A46EBCBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4334FD00-6384-4528-BDC0-5FB88CA83ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4334FD00-6384-4528-BDC0-5FB88CA83ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4334FD00-6384-4528-BDC0-5FB88CA83ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DE487E-281C-4304-9D47-03E8A46EBCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DE487E-281C-4304-9D47-03E8A46EBCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DE487E-281C-4304-9D47-03E8A46EBCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DE487E-281C-4304-9D47-03E8A46EBCBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

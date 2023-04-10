@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CtorKavrami_III/1.0.0": {
+        "runtime": {
+          "CtorKavrami_III.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CtorKavrami_III/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
