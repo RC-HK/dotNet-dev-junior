@@ -1,0 +1,12 @@
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/bin/Debug/net6.0/LibAnimals.deps.json
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/bin/Debug/net6.0/LibAnimals.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/bin/Debug/net6.0/LibAnimals.pdb
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.csproj.AssemblyReference.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.AssemblyInfoInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.AssemblyInfo.cs
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.csproj.CoreCompileInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/refint/LibAnimals.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.pdb
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/Debug/net6.0/ref/LibAnimals.dll

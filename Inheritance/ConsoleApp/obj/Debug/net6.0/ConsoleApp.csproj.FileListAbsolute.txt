@@ -1,0 +1,15 @@
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll

@@ -1,0 +1,15 @@
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/bin/Debug/net6.0/WebApp
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/bin/Debug/net6.0/WebApp.deps.json
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/bin/Debug/net6.0/WebApp.runtimeconfig.json
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/bin/Debug/net6.0/WebApp.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/bin/Debug/net6.0/WebApp.pdb
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.csproj.AssemblyReference.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfoInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.AssemblyInfo.cs
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/refint/WebApp.dll
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.pdb
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/WebApp.genruntimeconfig.cache
+/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/Debug/net6.0/ref/WebApp.dll
