@@ -6,26 +6,7 @@
     <projectFile>CtorKavrami_III/CtorKavrami_III.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="911de4a3-59d9-465d-bc61-ced81e52a3a5" name="Changes" comment="ctor kavrami II">
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/CtorKavrami_III.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/Urun.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/CtorKavrami_III.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/CtorKavrami_III.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/CtorKavrami_III.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.sln" afterDir="false" />
-    </list>
+    <list default="true" id="911de4a3-59d9-465d-bc61-ced81e52a3a5" name="Changes" comment="ctor kavrami III" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +23,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CtorKavrami/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CtorKavrami_II/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -118,6 +100,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="CtorKavrami_IV" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CtorKavrami_IV/CtorKavrami_IV.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681129757893</updated>
       <workItem from="1681129762765" duration="4357000" />
-      <workItem from="1681134376450" duration="1249000" />
+      <workItem from="1681134376450" duration="1818000" />
     </task>
     <task id="LOCAL-00001" summary="OOP solution dosyası eklendi.">
       <created>1681134221815</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681135228349</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ctor kavrami III">
+      <created>1681136187377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681136187377</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +176,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="OOP solution dosyası eklendi." />
     <MESSAGE value="ctor kavrami II" />
-    <option name="LAST_COMMIT_MESSAGE" value="ctor kavrami II" />
+    <MESSAGE value="ctor kavrami III" />
+    <option name="LAST_COMMIT_MESSAGE" value="ctor kavrami III" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
