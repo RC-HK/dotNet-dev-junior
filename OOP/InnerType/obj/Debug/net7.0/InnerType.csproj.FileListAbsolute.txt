@@ -1,0 +1,15 @@
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/bin/Debug/net7.0/InnerType
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/bin/Debug/net7.0/InnerType.deps.json
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/bin/Debug/net7.0/InnerType.runtimeconfig.json
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/bin/Debug/net7.0/InnerType.dll
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/bin/Debug/net7.0/InnerType.pdb
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.csproj.AssemblyReference.cache
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.AssemblyInfoInputs.cache
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.AssemblyInfo.cs
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.csproj.CoreCompileInputs.cache
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.dll
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/refint/InnerType.dll
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.pdb
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/InnerType.genruntimeconfig.cache
+/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/InnerType/obj/Debug/net7.0/ref/InnerType.dll
