@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/LibAnimals.csproj": {}
+    "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/LibAnimals/LibAnimals.csproj": {}
   },
   "projects": {
-    "/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/LibAnimals.csproj": {
+    "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/LibAnimals/LibAnimals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/LibAnimals.csproj",
+        "projectUniqueName": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/LibAnimals/LibAnimals.csproj",
         "projectName": "LibAnimals",
-        "projectPath": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/LibAnimals.csproj",
-        "packagesPath": "/Users/RcDev/.nuget/packages/",
-        "outputPath": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/LibAnimals/obj/",
+        "projectPath": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/LibAnimals/LibAnimals.csproj",
+        "packagesPath": "/Users/carabelli/.nuget/packages/",
+        "outputPath": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/LibAnimals/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/RcDev/.nuget/NuGet/NuGet.Config"
+          "/Users/carabelli/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
         }
       }
     }

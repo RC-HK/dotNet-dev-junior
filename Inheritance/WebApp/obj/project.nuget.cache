@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PDXJZ9D6AS6EZDAQpkhsO+nrtJpdmP4k/dGHuArpE6o0TCDYoMOVIlp8qt3vYQzs6sEvuiMp3Xo7HCQFU3R7Ew==",
+  "dgSpecHash": "6FYi5bx0aXh4mj/2NdQ8dbBHflojm3zoSbb+zwyKpUsN/IQmi85nEuEYWEgNR/OKcEoc/SywkcdVFrAKyshzww==",
   "success": true,
-  "projectFilePath": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/WebApp.csproj",
+  "projectFilePath": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/WebApp/WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/RcDev/.nuget/packages/": {}
+    "/Users/carabelli/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/WebApp.csproj",
+      "projectUniqueName": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/WebApp/WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/WebApp.csproj",
-      "packagesPath": "/Users/RcDev/.nuget/packages/",
-      "outputPath": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/WebApp/obj/",
+      "projectPath": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/WebApp/WebApp.csproj",
+      "packagesPath": "/Users/carabelli/.nuget/packages/",
+      "outputPath": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/WebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/RcDev/.nuget/NuGet/NuGet.Config"
+        "/Users/carabelli/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -4,9 +4,95 @@
     <projectFile>CtorKavrami/CtorKavrami.csproj</projectFile>
     <projectFile>CtorKavrami_II/CtorKavrami_II.csproj</projectFile>
     <projectFile>CtorKavrami_III/CtorKavrami_III.csproj</projectFile>
+    <projectFile>Inheritance/Inheritance.csproj</projectFile>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="911de4a3-59d9-465d-bc61-ced81e52a3a5" name="Changes" comment="ctor kavrami III" />
+    <list default="true" id="911de4a3-59d9-465d-bc61-ced81e52a3a5" name="Changes" comment="ctor kavrami III">
+      <change afterPath="$PROJECT_DIR$/Inheritance/Inheritance.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/Personel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Debug/net7.0/Inheritance.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Debug/net7.0/Inheritance.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Inheritance.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Inheritance.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/Inheritance.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/ConsoleApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/ConsoleApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/ConsoleApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/ConsoleApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/ConsoleApp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/Debug/net6.0/LibAnimals.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/LibAnimals.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/LibAnimals.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/LibAnimals.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/LibAnimals.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/LibAnimals/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/Debug/net6.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/Debug/net6.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/Debug/net6.0/WebApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/Debug/net6.0/WebApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/Debug/net6.0/WebApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/Debug/net6.0/WebApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/WebApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/WebApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/WebApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/WebApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/WebApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/WebApp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/CtorKavrami.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/CtorKavrami.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/CtorKavrami.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/CtorKavrami.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/Debug/net6.0/CtorKavrami.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/Debug/net6.0/CtorKavrami.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/Debug/net6.0/CtorKavrami.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/Debug/net6.0/CtorKavrami.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/Debug/net6.0/CtorKavrami.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/Debug/net6.0/CtorKavrami.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/CtorKavrami_II.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/CtorKavrami_II.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/CtorKavrami_II.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/CtorKavrami_II.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/Debug/net6.0/CtorKavrami_II.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/Debug/net6.0/CtorKavrami_II.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/Debug/net6.0/CtorKavrami_II.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/Debug/net6.0/CtorKavrami_II.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/Debug/net6.0/CtorKavrami_II.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/Debug/net6.0/CtorKavrami_II.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_II/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_II/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/CtorKavrami_III.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/CtorKavrami_III.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/CtorKavrami_III.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/CtorKavrami_III.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/Debug/net6.0/CtorKavrami_III.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_III/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_III/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/CtorKavrami_IV.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/CtorKavrami_IV.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/CtorKavrami_IV.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/CtorKavrami_IV.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/Debug/net6.0/CtorKavrami_IV.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/Debug/net6.0/CtorKavrami_IV.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/Debug/net6.0/CtorKavrami_IV.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/Debug/net6.0/CtorKavrami_IV.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/Debug/net6.0/CtorKavrami_IV.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/Debug/net6.0/CtorKavrami_IV.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtorKavrami_IV/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CtorKavrami_IV/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP.sln" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,15 +122,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/carabelli/Library/Application Support/JetBrains/Rider2023.1/resharper-host/DecompilerCache",
+      "/Users/carabelli/Library/Application Support/JetBrains/Rider2023.1/resharper-host/SourcesCache",
+      "/Users/carabelli/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
   <component name="RunManager" selected=".NET Project.CtorKavrami">
     <configuration name="CtorKavrami" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -118,6 +214,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Inheritance" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Inheritance/Inheritance.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -129,6 +243,7 @@
       <updated>1681129757893</updated>
       <workItem from="1681129762765" duration="4357000" />
       <workItem from="1681134376450" duration="1818000" />
+      <workItem from="1683550921595" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="OOP solution dosyası eklendi.">
       <created>1681134221815</created>

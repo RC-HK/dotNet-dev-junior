@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DFBEinYm96VjWj05/VsHqHEFq0dkhW7mkIQVhknIdbzdV3Pl8qtHLpzm5nBEEcMaZWX8wsGBAywq7e361rsSwg==",
+  "dgSpecHash": "93q745WluCosZRVKyxZVTrnHG1aGOIxTQq0a2Vq310Cd+KhkT7fXP/nPby6CIHCnEaGHOuxADNt5oKFOEocApg==",
   "success": true,
-  "projectFilePath": "/Users/RcDev/Desktop/dotNetJunior/Inheritance/ConsoleApp/ConsoleApp.csproj",
+  "projectFilePath": "/Users/carabelli/RiderProjects/dotNet-dev-junior/Inheritance/ConsoleApp/ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

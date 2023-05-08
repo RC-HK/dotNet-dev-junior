@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Gc7l10cGoJvdaRQQKee82kHjspgZkgve3SpytzswBGrAZFZWCCqj4YfJyFjgu2NEmTv+zpBC1Rpfk3FGa5vSQ==",
+  "dgSpecHash": "vf+uu7RiYAxVqCcyOx69alhWmGoZz/uk2nCtQChhdT7HVD4wAZRSlh1HVi2h92jW29BnIg2G8HEtmltKI3NRrA==",
   "success": true,
-  "projectFilePath": "/Users/RcDev/Desktop/dotNetJunior/OOP/CtorKavrami_III/CtorKavrami_III.csproj",
-  "expectedPackageFiles": [
-    "/Users/RcDev/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/RcDev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
-    "/Users/RcDev/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/carabelli/RiderProjects/dotNet-dev-junior/OOP/CtorKavrami_III/CtorKavrami_III.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

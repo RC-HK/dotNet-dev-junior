@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtorKavrami_III", "CtorKavr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtorKavrami_IV", "CtorKavrami_IV\CtorKavrami_IV.csproj", "{3D4D9EF8-0BBD-41CB-AD0C-A6495EC25F4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{5F2357CC-371A-4A93-B530-45D521F710A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{3D4D9EF8-0BBD-41CB-AD0C-A6495EC25F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D4D9EF8-0BBD-41CB-AD0C-A6495EC25F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D4D9EF8-0BBD-41CB-AD0C-A6495EC25F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2357CC-371A-4A93-B530-45D521F710A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2357CC-371A-4A93-B530-45D521F710A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2357CC-371A-4A93-B530-45D521F710A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2357CC-371A-4A93-B530-45D521F710A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
